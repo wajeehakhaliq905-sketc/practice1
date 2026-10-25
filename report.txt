@@ -1,0 +1,4 @@
+pen: quantity=10, price=25
+notebook: quantity=5, price=120
+marker: quantity=4, price=80
+Total value: 1170
